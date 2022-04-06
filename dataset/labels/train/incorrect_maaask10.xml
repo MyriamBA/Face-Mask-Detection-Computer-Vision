@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>incorrect_maaask10.jpg</filename>
+	<path>C:\Users\MSI\Documents\Face-Mask-Detection-\dataset\images\incorrect_maaask10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>39</ymin>
+			<xmax>156</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

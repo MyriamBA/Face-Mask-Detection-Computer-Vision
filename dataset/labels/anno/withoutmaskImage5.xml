@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>withoutmaskImage5.jpg</filename>
+	<path>C:\Users\MSI\Documents\Face-Mask-Detection-\dataset\images\withoutmaskImage5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>6</ymin>
+			<xmax>481</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataaa</folder>
+	<filename>yahya-portrait-elderly-man-single-traveler-wears-mask-and-travel-in-a-forest-old-man-wears-face-mask-wrong-way-incorrect-wearing-masks-should-cover-nose-2E1WWFN.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\Face-Mask-Detection-\dataaa\yahya-portrait-elderly-man-single-traveler-wears-mask-and-travel-in-a-forest-old-man-wears-face-mask-wrong-way-incorrect-wearing-masks-should-cover-nose-2E1WWFN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>113</ymin>
+			<xmax>898</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>

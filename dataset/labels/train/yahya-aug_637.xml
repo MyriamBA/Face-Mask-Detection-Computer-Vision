@@ -1,0 +1,26 @@
+<annotation>
+	<folder>incorrect_mask</folder>
+	<filename>yahya-aug_637.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\dataset\incorrect_mask\yahya-aug_637.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>1</ymin>
+			<xmax>939</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+</annotation>

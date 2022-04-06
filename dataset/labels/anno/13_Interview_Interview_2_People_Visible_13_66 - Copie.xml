@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without_mask</folder>
+	<filename>13_Interview_Interview_2_People_Visible_13_66.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\dataset\without_mask\13_Interview_Interview_2_People_Visible_13_66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>27</ymin>
+			<xmax>929</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

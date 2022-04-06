@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>withoutmaskImage13.jpg</filename>
+	<path>C:\Users\MSI\Documents\Face-Mask-Detection-\dataset\images\withoutmaskImage13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>828</xmin>
+			<ymin>220</ymin>
+			<xmax>1091</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

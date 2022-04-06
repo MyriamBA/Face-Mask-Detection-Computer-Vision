@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without_mask</folder>
+	<filename>28_Sports_Fan_Sports_Fan_28_916.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\dataset\without_mask\28_Sports_Fan_Sports_Fan_28_916.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1509</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>511</ymin>
+			<xmax>706</xmax>
+			<ymax>1196</ymax>
+		</bndbox>
+	</object>
+</annotation>

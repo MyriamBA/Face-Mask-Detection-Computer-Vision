@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yahya_aug_incor_maskImage0.jpg</filename>
+	<path>C:\Users\MSI\Documents\Face-Mask-Detection-\dataset\images\train\yahya_aug_incor_maskImage0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>95</ymin>
+			<xmax>801</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

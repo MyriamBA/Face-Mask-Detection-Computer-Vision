@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>lady.jpg</filename>
+	<path>C:\Users\MSI\Documents\Face-Mask-Detection-\dataset\images\lady.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>637</width>
+		<height>685</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>205</ymin>
+			<xmax>398</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

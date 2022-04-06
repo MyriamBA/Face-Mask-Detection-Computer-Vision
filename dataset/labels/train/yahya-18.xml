@@ -1,0 +1,26 @@
+<annotation>
+	<folder>without_mask</folder>
+	<filename>yahya-18.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\dataset\without_mask\yahya-18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>285</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>64</ymin>
+			<xmax>187</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

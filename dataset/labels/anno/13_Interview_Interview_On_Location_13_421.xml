@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yy</folder>
+	<filename>13_Interview_Interview_On_Location_13_421.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\yolov3_format_facemaskdataset\train\yy\13_Interview_Interview_On_Location_13_421.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>without_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>121</ymin>
+			<xmax>594</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

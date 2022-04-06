@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataaa</folder>
+	<filename>yahya84156.jpg</filename>
+	<path>C:\Users\Yahya\Desktop\Face-Mask-Detection-\dataaa\yahya84156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask_weared_incorrect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>27</ymin>
+			<xmax>159</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
